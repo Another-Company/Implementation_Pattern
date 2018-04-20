@@ -86,7 +86,7 @@
 
 - 설명 메시지
     - 로직을 설명하기 위해 메시지를 보낸다
-    - 개발자의 의도와 구현ㅇ르 구분하는 것은 언제나 중요하다
+    - 개발자의 의도와 구현을 구분하는 것은 언제나 중요하다
     ```java
     public void highlight(Rectangle area){
         reverse(area);
